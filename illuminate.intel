@@ -1,5 +1,4 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
-51.38.140.21	Intel::ADDR	CPS-ILLUMINATE	F	BANLIST
 60.248.164.129	Intel::ADDR	CPS-ILLUMINATE	F	BANLIST
 51.38.140.24	Intel::ADDR	CPS-ILLUMINATE	F	BANLIST
 120.52.93.90	Intel::ADDR	CPS-ILLUMINATE	F	BANLIST
