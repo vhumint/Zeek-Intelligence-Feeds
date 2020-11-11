@@ -108,6 +108,7 @@ blacktaste.monster	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 bladegrowl.monster	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 blckcbe.com	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 blindairspace.top	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+bloodpresoresd.us	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 bloodpressyrvscs.us	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 bookcreatoreasilys.us	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
 bookprey.rest	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
